@@ -13,4 +13,4 @@
 | 2026 | **RAG-Augmented LLMs for Penetration Testing: A Benchmarking Study** | **Gap:** Traditional pentesting is slow, manual, and expertise-heavy.<br>**Method:** RAG pipeline as an intelligent Pentest Assistant; benchmark 7 open-source LLMs across KB configurations; validate on AttackSeqBench / CyberMetric / Cybench.<br>**Result:** RAG improves accuracy & domain alignment; Llama 3.1/3.2, Mistral, Falcon 3 give strong structured guidance; all models struggle with interactive CTF. | Intell. Syst. Appl. | – |
 
 ---
-*[Back to index](README.md)*
+*[Back to index](../README.md)*

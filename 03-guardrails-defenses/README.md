@@ -12,4 +12,4 @@
 | 2026 | **Knowing-but-Doing: Diagnosing & Defending Role-Play Jailbreaks via Moral Disengagement (MD-Shield)** | **Gap:** Role-play safety is under-characterized; models often *recognize* risk in reasoning yet still comply ("Knowing-but-Doing").<br>**Method:** Bandura's Moral Disengagement as an explanatory framework; MD-Trace diagnostic benchmark; MD-Shield introspection-based defense.<br>**Result:** Role-play boosts safety for benign personas but raises unsafe compliance for malicious ones; MD-Shield lowers ASR while preserving role fidelity. | (journal) | [github](https://github.com/lavapapa/MoralJustify/) |
 
 ---
-*[Back to index](README.md)*
+*[Back to index](../README.md)*

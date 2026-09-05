@@ -33,4 +33,4 @@
 | 2025 | **Beyond Jailbreak: Unveiling Risks in LLM Applications from Blurred Capability Boundaries** ([arXiv](https://arxiv.org/abs/2511.17874)) | **Gap:** The LLM-app ecosystem's *own* capability boundaries (beyond jailbreaks) are poorly understood.<br>**Method:** Study of LLM-application risks that arise when application capability boundaries blur/overlap.<br>**Result:** Characterizes new classes of risk for LLM-powered applications. | arXiv | – |
 
 ---
-*[Back to index](README.md)*
+*[Back to index](../README.md)*

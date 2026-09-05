@@ -11,7 +11,7 @@
 | 2026 | **Minimal Prompt Perturbations Lead to Code Vulnerabilities (Prompt Fragility)** ([arXiv](https://arxiv.org/abs/2605.29737)) | **Gap:** Prior work shows prompt mutations break functional correctness; whether they also break *security* was unstudied.<br>**Method:** Token-level prompt mutations across 3 models × 5 languages; probe hidden states for pre-generation predictability.<br>**Result:** A single-character change can flip secure→vulnerable code; input-handling flaws are more predictable (AUC 0.753) than secure-defaults flaws (AUC 0.674) → first class detectable pre-generation, second needs decoding-time intervention. | arXiv | – |
 
 ---
-*[Back to index](README.md)*
+*[Back to index](../README.md)*
 
 ---
-*[Back to index](README.md)*
+*[Back to index](../README.md)*

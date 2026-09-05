@@ -32,4 +32,4 @@
 | 2026 | **Chasing Shadows: Pitfalls in LLM Security Research** ([arXiv](https://arxiv.org/abs/2512.09549)) | **Gap:** LLM security research lacks rigor/reproducibility; traditional ML pitfalls predate LLMs.<br>**Method:** Identify nine common pitfalls spanning data collection → pre-training → fine-tuning → prompting → evaluation.<br>**Result:** Provides a validity checklist for LLM security research. | NDSS | – |
 
 ---
-*[Back to index](README.md)*
+*[Back to index](../README.md)*

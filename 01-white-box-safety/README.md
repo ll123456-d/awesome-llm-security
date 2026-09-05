@@ -33,4 +33,4 @@
 | 2026 | **Backdoors in RLVR: Jailbreak Backdoors in LLMs From Verifiable Reward** ([arXiv](https://arxiv.org/abs/2604.09748)) | **Gap:** RL with Verifiable Rewards (RLVR) boosts reasoning but its *training-set* backdoor vulnerability was unidentified.<br>**Method:** Asymmetric Chain Backdoor (ACB): inject <2% poisoned data — high positive reward for harmful responses, negative for refusals — implanting a backdoor without modifying the verifier.<br>**Result:** Backdoor implanted across scales with no benign-task drop; activating the trigger degrades safety by avg 73% on jailbreak benchmarks; generalizes across jailbreak methods. | arXiv | [github](https://github.com/yuki-younai/Backdoor_in_RLVR) |
 
 ---
-*[Back to index](README.md)*
+*[Back to index](../README.md)*

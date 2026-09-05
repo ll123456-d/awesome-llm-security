@@ -1,5 +1,7 @@
 # Awesome LLM Security
 
+**[English](README.md) | [中文](README.zh-CN.md)**
+
 A curated, re-organized collection of recent research on **LLM safety & security** — spanning white-box / mechanistic analysis of alignment, jailbreak attacks & red teaming, guardrails & defenses, code-LLM security, agent & multi-agent security, and LLM-driven offensive security.
 
 > Organized from a Zotero reading list. Each topic has its own page with a `Year | Paper | Summary | Venue | Code` table. Papers are deduplicated across the original (overlapping) collections and assigned to the single most relevant topic.
@@ -10,12 +12,12 @@ A curated, re-organized collection of recent research on **LLM safety & security
 
 | # | Topic | Focus | Page |
 |---|-------|-------|------|
-| 1 | **White-Box & Mechanistic Safety** | Understanding & editing safety alignment at the neuron / circuit / activation level; vulnerability detection via internal states | [`01_whitebox_mechanistic_safety.md`](01_whitebox_mechanistic_safety.md) |
-| 2 | **Jailbreak Attacks & Red Teaming** | Attacking aligned chat LLMs: adversarial suffixes, semantic/agentic jailbreaks, automated red teaming, benchmarks | [`02_jailbreak_redteaming.md`](02_jailbreak_redteaming.md) |
-| 3 | **Guardrails & Safety Defenses** | Detecting jailbreaks, hardening refusal, input/output guardrails, safety fine-tuning & unlearning defenses | [`03_guardrails_defenses.md`](03_guardrails_defenses.md) |
-| 4 | **Code-LLM Security** | Malicious code generation, code jailbreaks, vibe-coding vulnerabilities, secure code generation | [`04_code_llm_security.md`](04_code_llm_security.md) |
-| 5 | **Agent & Multi-Agent Security** | Prompt injection, tool poisoning, communication attacks, multi-agent red teaming & defense | [`05_agent_multiagent_security.md`](05_agent_multiagent_security.md) |
-| 6 | **LLM-Driven Offensive Security** | Using LLMs/agents for pentesting, vulnerability discovery, exploit generation, malware | [`06_offensive_security.md`](06_offensive_security.md) |
+| 1 | **White-Box & Mechanistic Safety** | Understanding & editing safety alignment at the neuron / circuit / activation level; vulnerability detection via internal states | [`01-white-box-safety/README.md`](01-white-box-safety/README.md) |
+| 2 | **Jailbreak Attacks & Red Teaming** | Attacking aligned chat LLMs: adversarial suffixes, semantic/agentic jailbreaks, automated red teaming, benchmarks | [`02-jailbreak-redteaming/README.md`](02-jailbreak-redteaming/README.md) |
+| 3 | **Guardrails & Safety Defenses** | Detecting jailbreaks, hardening refusal, input/output guardrails, safety fine-tuning & unlearning defenses | [`03-guardrails-defenses/README.md`](03-guardrails-defenses/README.md) |
+| 4 | **Code-LLM Security** | Malicious code generation, code jailbreaks, vibe-coding vulnerabilities, secure code generation | [`04-code-llm-security/README.md`](04-code-llm-security/README.md) |
+| 5 | **Agent & Multi-Agent Security** | Prompt injection, tool poisoning, communication attacks, multi-agent red teaming & defense | [`05-agent-multiagent-security/README.md`](05-agent-multiagent-security/README.md) |
+| 6 | **LLM-Driven Offensive Security** | Using LLMs/agents for pentesting, vulnerability discovery, exploit generation, malware | [`06-offensive-security/README.md`](06-offensive-security/README.md) |
 
 ---
 
