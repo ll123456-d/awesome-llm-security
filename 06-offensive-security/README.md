@@ -1,4 +1,5 @@
 # 6. LLM-Driven Offensive Security
+**[English](README.md) | [中文](README.zh-CN.md)** · [Back to index](../README.md)
 
 *Using LLMs / LLM agents to attack real systems: penetration testing, vulnerability discovery, exploit generation, malware & ransomware, and offense-oriented benchmarks.*
 

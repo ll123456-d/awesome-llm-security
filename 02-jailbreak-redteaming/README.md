@@ -1,4 +1,5 @@
 # 2. Jailbreak Attacks & Red Teaming
+**[English](README.md) | [中文](README.zh-CN.md)** · [Back to index](../README.md)
 
 *Attacking aligned (chat) LLMs: adversarial suffixes, semantic / logical / agentic jailbreaks, automated red teaming, and evaluation benchmarks.*
 

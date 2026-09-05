@@ -1,4 +1,5 @@
 # 3. Guardrails & Safety Defenses
+**[English](README.md) | [中文](README.zh-CN.md)** · [Back to index](../README.md)
 
 *Detecting jailbreak / malicious prompts, hardening refusal, resolving safety-utility trade-offs, and post-hoc safety interventions on aligned LLMs.*
 

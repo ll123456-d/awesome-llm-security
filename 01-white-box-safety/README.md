@@ -1,4 +1,5 @@
 # 1. White-Box & Mechanistic Safety
+**[English](README.md) | [中文](README.zh-CN.md)** · [Back to index](../README.md)
 
 *Understanding & editing safety alignment at the neuron / circuit / activation level; probing internal states for security signals.*
 
