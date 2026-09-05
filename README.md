@@ -4,7 +4,7 @@
 
 A curated, re-organized collection of recent research on **LLM safety & security** — spanning white-box / mechanistic analysis of alignment, jailbreak attacks & red teaming, guardrails & defenses, code-LLM security, agent & multi-agent security, and LLM-driven offensive security.
 
-> Organized from a Zotero reading list. Each topic has its own page with a `Year | Paper | Summary | Venue | Code` table. Papers are deduplicated across the original (overlapping) collections and assigned to the single most relevant topic.
+> Each topic has its own page with a `Year | Paper | Summary | Venue | Code` table. Papers are deduplicated and assigned to the single most relevant topic; summaries follow a **Gap / Method / Result** structure.
 
 ---
 
@@ -48,9 +48,3 @@ Each summary follows the structure:
 Venue is reported as conference / journal / arXiv preprint (arXiv IDs included in the `Paper` column links where known).
 
 ---
-
-## 🗂 Origin
-
-Reorganized from the following (overlapping) Zotero collections, which mixed **topic** and **access-level** (black-box vs white-box) axes:
-
-- `护栏` / `护栏-code` / `护栏-code白盒` / `红队` / `LLM-code白盒护栏` (under `TDSC审稿`)
