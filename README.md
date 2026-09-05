@@ -29,9 +29,9 @@ A curated, re-organized collection of recent research on **LLM safety & security
 | 2. Jailbreak Attacks & Red Teaming | 26 |
 | 3. Guardrails & Safety Defenses | 6 |
 | 4. Code-LLM Security | 5 |
-| 5. Agent & Multi-Agent Security | 27 |
+| 5. Agent & Multi-Agent Security | 28 |
 | 6. LLM-Driven Offensive Security | 7 |
-| **Total (unique)** | **98** |
+| **Total (unique)** | **99** |
 
 > **Note on boundary papers.** A few works span two topics (e.g., *GoodVibe*, *SAGE*, *CSULoRA* mix white-box mechanisms with code security / defenses). They are placed under their **primary contribution** to avoid duplication.
 
